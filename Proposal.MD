@@ -20,7 +20,7 @@ The aim of the project is to build a machine learning model to predict and compr
 ___
 ### What is required in order to complete your project? Goals:
 
-1. Selection and ٍget data (3H), from koggel (lending club data): Shrouq , Asmaa, Sarah.
+1. Selection and ٍget data (3H), from kaggel (lending club data): Shrouq , Asmaa, Sarah.
 
 2. EDA: exploring the data (3H), Using Pandas: Rawan, amani, khalid.
 
